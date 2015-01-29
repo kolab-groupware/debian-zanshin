@@ -3,9 +3,11 @@ Section: kde
 Priority: optional
 Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
 Uploaders: Fathi Boudra <fabo@debian.org>
-Build-Depends: cmake,
+Build-Depends: baloo-dev (>= 4:4.13),
+               cmake,
                debhelper (>= 8.0.0),
-               kdepimlibs5-dev (>= 4:4.6.0),
+               kdepimlibs5-dev (<< 4:4.14),
+               kdepimlibs5-dev (>= 4:4.13),
                libboost-dev,
                pkg-kde-tools
 Standards-Version: 3.9.2
