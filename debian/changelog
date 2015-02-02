@@ -1,13 +1,13 @@
-zanshin (0.3.0~20150129.482026a0-0~kolab1) UNRELEASED; urgency=medium
+zanshin (3.0.0-0~kolab1) unstable; urgency=medium
 
   [ Fathi Boudra ]
   * Improve long description.
   * Add versioned build dependency on kdepimlibs >= 4:4.6.0.
 
   [ Sandro Knauß ]
-  * git build of 482026a0131ce755c25f0f30eac4c3a0f7f2d033
+  * 3.0.0
 
- -- Sandro Knauß <knauss@kolabsys.com>  Thu, 29 Jan 2015 23:31:06 +0100
+ -- Sandro Knauß (Kolab Systems) <knauss@kolabsys.com>  Thu, 29 Jan 2015 23:31:06 +0100
 
 zanshin (0.2.0-1) unstable; urgency=low
 
