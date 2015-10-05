@@ -9,6 +9,7 @@ Build-Depends: baloo-dev (>= 4:4.13),
                kdepimlibs5-dev (<< 4:4.14),
                kdepimlibs5-dev (>= 4:4.13),
                libboost-dev,
+               libgrantlee-dev,
                pkg-kde-tools,
                xsltproc
 Standards-Version: 3.9.2
