@@ -1,3 +1,9 @@
+zanshin (3.0.6-0~kolab1) unstable; urgency=medium
+
+  * New upstream release 3.0.6
+
+ -- Sandro Knauß (Kolab Systems) <knauss@kolabsys.com>  Thu, 22 Oct 2015 16:10:32 +0200
+
 zanshin (3.0.5-0~kolab0) unstable; urgency=medium
 
   * New upstream release 3.0.5
